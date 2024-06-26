@@ -1,4 +1,4 @@
-package sintaxe
+package main.sintaxe
 
 fun main() {
 
